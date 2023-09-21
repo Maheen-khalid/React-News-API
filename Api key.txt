@@ -1,0 +1,138 @@
+5a592196c4204761b0dc8c10f8b456d6
+
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Lahaina's iconic banyan tree shows signs of life",
+"description": "New leaves were seen sprouting on the iconic Maui tree which was damaged during wildfires.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-66882761",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4DC8/production/_131221991_p0gg0p05.jpg",
+"publishedAt": "2023-09-21T18:22:18.5570397Z",
+"content": "After being heavily damaged in Maui's wildfires, Lahaina's 150-year-old banyan tree is showing signs of life.\r\nThe fresh leaves signal a new period of growth, sending a message of hope to those still… [+26 chars]"
+},
+{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Trump hands out pizza at Iowa pub",
+"description": "The former US president and 2024 candidate signed a woman's shirt and gave out free pizza.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-66883771",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18260/production/_131221989_p0gg0gj8.jpg",
+"publishedAt": "2023-09-21T18:07:19.7761863Z",
+"content": "Up Next. Rupert Murdoch's media empire through the years. Video, 00:01:08Rupert Murdoch's media empire through the years"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Rupert Murdoch's succession drama reaches its finale",
+"description": "It seems the TV show's real-life inspirations have concluded their own succession drama.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-66881706",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16670/production/_114506719_mediaitem114506715.jpg",
+"publishedAt": "2023-09-21T18:07:18.2609384Z",
+"content": "Four months after the finale of acclaimed TV series Succession, it seems the show's real-life inspirations have reached the conclusion of their own succession drama.\r\nWhen Succession writer Jesse Arm… [+5784 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Five to be charged in UK with spying for Russia",
+"description": "Three men and two women are to be charged with conspiracy to conduct espionage, UK prosecutors say.",
+"url": "http://www.bbc.co.uk/news/uk-66879181",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13D62/production/_130805218_russia-composite-index2.jpg",
+"publishedAt": "2023-09-21T17:37:18.9001193Z",
+"content": "Five people suspected of spying for Russia are to be charged in the UK with conspiracy to conduct espionage.\r\nOrlin Roussev, Bizer Dzhambazov, Katrin Ivanova, Ivan Stoyanov, and Vanya Gaberova will a… [+2560 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Ozzy Osbourne has final neck surgery: 'I can't do it any more'",
+"description": "The star has required several surgical interventions after damaging his spine in a late-night fall.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-66876167",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FF81/production/_127290456_2.68231066.jpg",
+"publishedAt": "2023-09-21T17:22:19.7757536Z",
+"content": "Ozzy Osbourne says he has gone under the surgeon's knife for the last time, to correct spinal damage he incurred in a late-night fall in 2019.\r\n\"I can't believe I've come to the end of it,\" he told P… [+3587 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Woman says Russell Brand exposed himself to her then laughed about it on Radio 2 show",
+"description": "The incident, which happened in Los Angeles in 2008, is the first time Brand has been heard publicly admitting sexual misconduct.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-66882644",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EC56/production/_131220506_mediaitem131220505.jpg",
+"publishedAt": "2023-09-21T17:07:23.6818858Z",
+"content": "A woman has accused Russell Brand of exposing himself to her and then laughing about it minutes later on his BBC radio show. \r\nThe woman says it happened in 2008 when she was working in the same buil… [+6027 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Zelensky in Washington: Ukrainian president visits Pentagon 9/11 memorial as he seeks further US funds",
+"description": "The Ukrainian president visits the 9/11 memorial in Washington as part of a visit focused on winning financial support to repel Russia.",
+"url": "https://www.bbc.com/news/live/world-us-canada-66881444",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+"publishedAt": "2023-09-21T16:52:25.6827125Z",
+"content": "The United States has poured more than a $100bn into Ukraine's effort to repel Russia's invasion, spending far more than any other nation. \r\nBut there is growing scepticism among the Republican party… [+886 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Rupert Murdoch latest news: 92-year-old steps down as chair of News Corp and Fox",
+"description": "The 93-year-old media mogul's eldest son Lachlan already headed Fox and will now head News Corp too.",
+"url": "http://www.bbc.co.uk/news/live/business-66881282",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+"publishedAt": "2023-09-21T13:52:22.2063294Z",
+"content": "More now from Murdoch's statement.\r\nThe 92-year-old said he would be taking up the position as chairman emeritus of Fox Corporation and News Corp. \r\n\"For my entire professional life, I have been enga… [+579 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC Sport",
+"title": "'I don't care about sportswashing'",
+"description": "Saudi Arabia crown prince Mohammed bin Salman says he is focused on economic targets.",
+"url": "http://www.bbc.co.uk/sport/66874723",
+"urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14B12/production/_131145748_gettyimages-1654190361.jpg",
+"publishedAt": "2023-09-21T13:22:31.8163062Z",
+"content": "Newcastle United revealed a 2022-23 third kit which resembled the Saudi Arabia national team kit\r\nSaudi Arabia crown prince Mohammed bin Salman says he does not care about accusations of 'sportswashi… [+3191 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "India suspends visas for Canadians as row escalates",
+"description": "Relations have plummeted since Canada's PM linked India to the killing of a Sikh separatist leader.",
+"url": "http://www.bbc.co.uk/news/world-asia-india-66851964",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A95A/production/_131145334_gettyimages-1653681028-594x594.jpg",
+"publishedAt": "2023-09-21T08:37:20.7062626Z",
+"content": "India has suspended visa services for Canadian citizens amid an escalating row over the killing of a Sikh separatist on Canadian soil.\r\nVisa service provider BLS posted a message from India's mission… [+2618 chars]"
+}
+]
+}
